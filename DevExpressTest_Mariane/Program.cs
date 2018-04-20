@@ -17,6 +17,7 @@ namespace DevExpressTest_Mariane
         static void Main()
         {
 
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
